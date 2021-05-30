@@ -5,4 +5,4 @@ The task is to create a simple website(4 pages) using Nodejs to make a server.
 
 #### Live preview
 
-Click [https://patchdpineapple.github.io/basic-informational-site/](https://patchdpineapple.github.io/basic-informational-site/)
+Click [https://basic-informational-site.patchdpineapple.repl.co/](https://basic-informational-site.patchdpineapple.repl.co/)

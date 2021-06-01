@@ -1,0 +1,26 @@
+{
+  "name": "basic-informational-site",
+  "version": "1.0.0",
+  "description": "This is the first project from the Nodejs course of The Odin Project.\\ The task is to create a simple website(4 pages) using Nodejs to make a server.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patchdpineapple/basic-informational-site.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/patchdpineapple/basic-informational-site/issues"
+  },
+  "homepage": "https://github.com/patchdpineapple/basic-informational-site#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "eslint": "^7.27.0"
+  }
+}
